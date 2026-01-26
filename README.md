@@ -12,6 +12,12 @@ This is my personal one-page portfolio website.
 
 * AWS S3 (Static Website Hosting)
 
+## Automated Deployment Pipeline
+
+This repository uses GitHub Actions to automatically deploy the portfolio website to an AWS S3 static website bucket on every push to the `source` branch.
+
+![GitHub Actions to AWS S3 Deployment Pipeline](html_finalprojimages/automated_deployment_pipeline_diagram.png)
+
 ## Author
 
 Author:         Adam Ray Alcala
